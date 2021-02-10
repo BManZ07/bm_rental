@@ -3,6 +3,9 @@ FiveM Car rental script created for NerveRP
 
 NerveRP - discord.gg/nerve
 
+# Usage
+Place the folder bm_rental in your resources folder and ensure bm_rental in server.cfg
+
 # Features
 - Configure vehicles to rent
 - Configure prices of vehicles
